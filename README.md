@@ -1,5 +1,3 @@
-# Bears
-
 <!DOCTYPE html>
 <html>
 	<head>
